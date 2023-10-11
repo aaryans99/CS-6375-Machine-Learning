@@ -33,10 +33,7 @@ sigmoid and ReLu function for better performance.
 
 ## Authors
 
-Contributors names and contact info
-
-
-Aaryan Singh - axc230019
+Aaryan Singh - axc230019<br>
 Nikunj Gohil - ndg220000
 
 
